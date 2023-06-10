@@ -37,7 +37,7 @@ export default function Chats() {
       projectID="3e4c79b0-db8e-4822-bbc7-a08828cff9f3"
       userName={username}
       userSecret={secret}
-      renderNewMessageForm={() =><MessageFormSocial}
+      renderNewMessageForm={() =><MessageFormSocial />}
       />
     </div>
   </div>
