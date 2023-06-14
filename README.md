@@ -5,12 +5,11 @@
     width="75%" 
     height="100%"
 />
-
 This project is powered by [Chat Engine](https://chatengine.io).
 
 ## Tutorial Setup
 
-Download Code > Zip from [the main branch](https://github.com/alamorre/nextjs-chat-tutorial/).
+Download Code > Zip from [the main branch](https://github.com/Nik5Pioneer/chatapp).
 
 Follow the Video Tutorial [right here](https://chatengine.io).
 
